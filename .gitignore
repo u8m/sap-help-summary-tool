@@ -1,0 +1,5 @@
+# 🔑 秘密キーなどを除外
+gpt-key.env
+.env
+__pycache__/
+*.pyc
