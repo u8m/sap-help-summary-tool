@@ -55,7 +55,7 @@ streamlit run streamlit_app.py
 ---
 
 ## 🖼 画面イメージ（例）
-### 🔽 実行画面PC
+### 🔽 実行画面
 ![トップ画面](img/top.png)
 
 ### 🔽 AI要約
