@@ -55,10 +55,16 @@ streamlit run streamlit_app.py
 ---
 
 ## 🖼 画面イメージ（例）
-
+### 🔽 実行画面PC
 ![トップ画面](img/top.png)
+
+### 🔽 AI要約
 ![要約表示](img/ai_summary.png)
+
+### 🔽 キーワード可視化
 ![ワードクラウド](img/wordcloud.png)
+
+### 🔽 キーワード検索
 ![キーワード検索](img/keyword_search.png)
 
 ---
