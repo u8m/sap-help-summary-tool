@@ -56,14 +56,10 @@ streamlit run streamlit_app.py
 
 ## 🖼 画面イメージ（例）
 
-※ `img/` フォルダに以下の画像を保存してから記述します。
-
-```markdown
 ![トップ画面](img/top.png)
 ![要約表示](img/ai_summary.png)
 ![ワードクラウド](img/wordcloud.png)
 ![キーワード検索](img/keyword_search.png)
-```
 
 ---
 
